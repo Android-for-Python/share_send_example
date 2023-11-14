@@ -2,6 +2,8 @@
 
 *Share files or plain text with another app*
 
+**2023-11-13 This repository is archived.**
+
 Files in [shared storage](https://github.com/Android-for-Python/Android-for-Python-Users#shared-storage) can be shared with other apps.
 
 This example uses the Android ShareSheet. The target app is either specified in the sharing app or selected by the user with the ShareSheet.
